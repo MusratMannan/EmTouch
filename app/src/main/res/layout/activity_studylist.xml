@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".studylist">
+
+
+    <Button
+        android:id="@+id/school"
+        android:width="400dp"
+        android:height="60dp"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/school" />
+
+    <Button
+        android:id="@+id/college"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="400dp"
+        android:height="60dp"
+        android:textSize="30sp"
+        android:text="@string/college"
+        />
+
+    <Button
+        android:id="@+id/versity"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="400dp"
+        android:height="60dp"
+        android:textSize="30sp"
+        android:text="@string/university"
+        />
+
+</LinearLayout>

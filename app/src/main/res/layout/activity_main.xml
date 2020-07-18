@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/stu"
+        android:width="400dp"
+        android:height="60dp"
+        android:textSize="30sp"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/study" />
+
+    <Button
+        android:id="@+id/hos"
+        android:layout_margin="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:width="400dp"
+        android:height="60dp"
+        android:textSize="30sp"
+        android:text="@string/hospital"
+        />
+    <Button
+        android:id="@+id/fir"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="30sp"
+        android:width="400dp"
+        android:height="60dp"
+        android:text="@string/fire_service"
+        />
+    <Button
+        android:id="@+id/pol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="30sp"
+        android:width="400dp"
+        android:height="60dp"
+        android:text="@string/police"
+        />
+
+    <Button
+        android:id="@+id/sef"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:textSize="30sp"
+        android:width="400dp"
+        android:height="60dp"
+        android:text="@string/sefety"
+        />
+
+
+
+
+</LinearLayout>

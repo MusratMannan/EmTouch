@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">EM</string>
+    <string name="fsc">Fire Service And Civil Defence \ Number-041762052</string>
+    <string name="nfs">Noapara Fire Service \ Number-01732550460</string>
+    <string name="ksnfs">Khulna Stholkam Nodi Fire Station \ Number-041890048</string>
+    <string name="fscd">Fire Service And Civil Defence \ Number-01767890713</string>
+
+    <string name="ksps">Khulna Sadar Police Station \ Number-01713373285</string>
+    <string name="smps">Sonadanga Model Police Station \ Number-01713373286</string>
+    <string name="ht">Horintana Thana \ Number-01711211904</string>
+    <string name="gpb">Gollamari Police Box \ Number-01911764907</string>
+    <string name="spf">Shibbari Police Fari \ Number-01713374095</string>
+    <string name="kt">Khalishpur Thana \ Number-01713373287</string>
+    <string name="dok">DC Office,Khulna \ Number-041721122</string>
+    <string name="bps">Batiaghata Police Station \ Number-01713374106</string>
+
+
+    <string name="kmh">Khulna Medical Hospital \ Number-041761535</string>
+    <string name="kcmh">Khulna City Medical Hospital \ Number-01999099099</string>
+    <string name="ibh">Islami Bank Hospital \ Number-01712068683</string>
+    <string name="beh">Bangladesh EYE Hospital \ Number-01799209075</string>
+    <string name="feh">Fortis Escort Hospital \ Number-041723433</string>
+    <string name="an">Abu Naser \ Number-041760390</string>
+    <string name="sc">Shapla Clinic \ Number-01624826650</string>
+    <string name="sh">Sadar Hospital \ Number-041760390</string>
+    <string name="bh">Binodini Hospital \ Number-01624826650</string>
+    <string name="khc">Khulna Health Care \ Number-01972147414</string>
+    <string name="rmc">Rasheda Memorial Care \ Number-041731400</string>
+    <string name="zmh">Zuhura Memorial Hospital \ Number-01918047383</string>
+
+
+    <string name="kzs">Khulna zilla school \ Number-041720533</string>
+    <string name="kpc">Khulna public college \ Number-041761339</string>
+    <string name="kcgss">Khulna collegiate girls school and kccwc \ Number-041721422</string>
+    <string name="gcghs">Govt coronation girls high school \ Number-01792409025</string>
+    <string name="sjhs">Saint joshephs high school \ Number-041722479</string>
+    <string name="kgghs">Khulna govt girls high school \ Number-041761132</string>
+
+
+    <string name="ku">Khulna University \ Number-041721791</string>
+    <string name="kuet">Khulna University Of Engineering @ Techology \ Number-0412870938</string>
+    <string name="nwu">North Western University \ Number-01755226611</string>
+    <string name="nubt">Northern University Of Bussiness And Technology \ Number-041813844</string>
+
+
+    <string name="gmmcc"> Govt m.m.city college \ Number-041725704</string>
+    <string name="kgmc">Khulna govt mohila college \ Number-0412850083</string>
+    <string name="gpgc">Govt pioneer girls college \ Number-041721266</string>
+    <string name="kmsc">Khulna model school and college \ Number-0412850193</string>
+    <string name="bsc">BN school and college \ Number-0196694493</string>
+    <string name="study">Study</string>
+    <string name="hospital">Hospital</string>
+    <string name="fire_service">Fire-service</string>
+    <string name="police">Police</string>
+    <string name="sefety">SEFETY</string>
+    <string name="log_in">Log In</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="register_a_new_account">Register a new account</string>
+    <string name="sing_up">Sing-Up</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="login">Login</string>
+    <string name="school">SCHOOL</string>
+    <string name="college">COLLEGE</string>
+    <string name="university">UNIVERSITY</string>
+
+
+</resources>
+
